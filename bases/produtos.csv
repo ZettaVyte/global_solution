@@ -1,0 +1,151 @@
+item_id,item_desc,item_class
+item_1,"2,4-D",Fungicida
+item_2,Tiodicarbe,Herbicida
+item_3,Dimetoato,Inseticida
+item_4,Difenoconazol,Fungicida
+item_5,Malationa,Herbicida
+item_6,Metomil Forte,Fungicida
+item_7,Spiromesifen,Herbicida
+item_8,Pinoxaden,Herbicida
+item_9,Dimetoato,Inseticida
+item_10,Fipronil,Inseticida
+item_11,Tiodicarbe,Inseticida
+item_12,Clorpirifos,Herbicida
+item_13,Spirotetramat,Fungicida
+item_14,"2,4-D",Inseticida
+item_15,Tebufenozide,Inseticida
+item_16,Clorpirifos,Herbicida
+item_17,Pyraclostrobin,Herbicida
+item_18,Malationa,Inseticida
+item_19,Metaflumizone,Inseticida
+item_20,Acefato,Herbicida
+item_21,Clorpirifos,Herbicida
+item_22,Spiromesifen,Inseticida
+item_23,Pinoxaden,Inseticida
+item_24,Paraoxon,Herbicida
+item_25,Spiromesifen,Fungicida
+item_26,Tebufenozide,Inseticida
+item_27,Metomil,Inseticida
+item_28,Thiametoxam,Herbicida
+item_29,Diquat,Herbicida
+item_30,Glifosato,Inseticida
+item_31,Cymoxanil,Inseticida
+item_32,Buprofezina,Inseticida
+item_33,Tiametoxam,Herbicida
+item_34,Paraoxon,Inseticida
+item_35,Permetrina,Fungicida
+item_36,Azoxistrobin Agro,Fungicida
+item_37,Flutriafol,Herbicida
+item_38,LambdaMax,Herbicida
+item_39,Tebuconazol Ultra,Fungicida
+item_40,Flutriafol,Inseticida
+item_41,Glifosato,Inseticida
+item_42,Mesotrione,Herbicida
+item_43,Imidacloprid BR,Fungicida
+item_44,Tebuconazol Ultra,Fungicida
+item_45,Glyphomax,Fungicida
+item_46,Tebufenozide,Herbicida
+item_47,Diflubenzuron,Fungicida
+item_48,Carbaryl,Herbicida
+item_49,Fipromax,Herbicida
+item_50,Mesotrione,Herbicida
+item_51,Difenoconazol,Fungicida
+item_52,Atrazine Plus,Inseticida
+item_53,Clorpirifos,Herbicida
+item_54,Abamectina,Fungicida
+item_55,Metomil,Fungicida
+item_56,Diquat,Herbicida
+item_57,Captan Gold,Inseticida
+item_58,Novaluron,Fungicida
+item_59,Piraclostrobin,Inseticida
+item_60,Oxiclor,Herbicida
+item_61,Oxiclor,Fungicida
+item_62,Captan Gold,Inseticida
+item_63,Trifluralin,Inseticida
+item_64,Abamectina,Fungicida
+item_65,Clorantraniliprole,Herbicida
+item_66,Tiodicarbe,Inseticida
+item_67,Metoxifenozide,Inseticida
+item_68,Fipronil,Fungicida
+item_69,Cletodim,Inseticida
+item_70,Imidacloprid,Inseticida
+item_71,Imidacloprid,Inseticida
+item_72,Zeta-Cipermetrina,Fungicida
+item_73,Cletodim,Inseticida
+item_74,Carbaryl,Fungicida
+item_75,Metoxifenozide,Fungicida
+item_76,Carbaryl,Herbicida
+item_77,Permetrina,Inseticida
+item_78,LambdaMax,Herbicida
+item_79,Difenoconazol,Herbicida
+item_80,Paraquat,Inseticida
+item_81,Dimetoato,Fungicida
+item_82,Diquat,Herbicida
+item_83,Carbaryl,Inseticida
+item_84,LambdaMax,Fungicida
+item_85,Trifluralin,Fungicida
+item_86,Imazetapir,Fungicida
+item_87,Ciproconazol,Herbicida
+item_88,Endossulfam,Herbicida
+item_89,Atrazine Plus,Herbicida
+item_90,Diflubenzuron,Inseticida
+item_91,Dicloran 700,Herbicida
+item_92,Tebufenozide,Herbicida
+item_93,Engeo Pleno,Herbicida
+item_94,Clorpirifos,Herbicida
+item_95,Glyphomax,Herbicida
+item_96,Azoxistrobin Agro,Herbicida
+item_97,Azoxistrobin Agro,Fungicida
+item_98,Pinoxaden,Herbicida
+item_99,Engeo Pleno,Fungicida
+item_100,Manzate,Inseticida
+item_101,Acefato,Fungicida
+item_102,Ciproconazol,Fungicida
+item_103,Paraquat,Fungicida
+item_104,Imazetapir,Herbicida
+item_105,Cletodim Tech,Fungicida
+item_106,Profenofós,Fungicida
+item_107,Dimetoato,Fungicida
+item_108,Zeta-Cipermetrina,Fungicida
+item_109,Pinoxaden,Herbicida
+item_110,Dimetoato,Fungicida
+item_111,Flutriafol,Inseticida
+item_112,Cymoxanil,Herbicida
+item_113,Profenofós,Inseticida
+item_114,Manzate,Fungicida
+item_115,Tiodicarbe,Herbicida
+item_116,Bifentrina,Herbicida
+item_117,Spirotetramat,Fungicida
+item_118,Difenoconazol,Herbicida
+item_119,Paraoxon,Herbicida
+item_120,Abamectina,Fungicida
+item_121,Endossulfam,Inseticida
+item_122,Mesotrione,Herbicida
+item_123,Clorpirifos,Herbicida
+item_124,"2,4-D",Fungicida
+item_125,RoundPro,Inseticida
+item_126,Procloraz,Inseticida
+item_127,Atrazine Plus,Fungicida
+item_128,Clorantraniliprole,Herbicida
+item_129,Metaflumizone,Herbicida
+item_130,Imazetapir,Herbicida
+item_131,Tiodicarbe,Herbicida
+item_132,Tebufenozide,Inseticida
+item_133,Mesotrione,Inseticida
+item_134,Acefato Max,Inseticida
+item_135,Carbaril,Herbicida
+item_136,Metaflumizone,Fungicida
+item_137,Diquat,Fungicida
+item_138,Carbendazim,Inseticida
+item_139,Azoxistrobin Agro,Inseticida
+item_140,Tebuconazol Ultra,Fungicida
+item_141,Glifosato,Herbicida
+item_142,Cletodim Tech,Herbicida
+item_143,Flutriafol,Fungicida
+item_144,Trifluralin,Fungicida
+item_145,Endossulfam,Inseticida
+item_146,Clorantraniliprole,Fungicida
+item_147,Fipromax,Inseticida
+item_148,Imidacloprid,Inseticida
+item_149,Tiodicarbe,Herbicida
+item_150,Oxiclor,Herbicida
