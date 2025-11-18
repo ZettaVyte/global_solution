@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\vitor\OneDrive\Desktop\global_solution\.venv
+set VIRTUAL_ENV=C:\Projetos_FIAP\global_solution\.venv
 
 if not defined PROMPT set PROMPT=$P$G
 
