@@ -154,6 +154,8 @@ recs_cliente = dl.prepare_recommendations(
     top_n=3
 )
 metrics = dl.calculate_commercial_metrics(historico_cliente)
+recs_cliente.drop_duplicates(subset=['item_desc'], inplace=True)
+recs_cliente.sort_values(by='lift', ascending=False, inplace=True)
 
 # Métricas sidebar
 st.sidebar.markdown("---")
@@ -346,13 +348,13 @@ for idx, rec in recs_cliente.iterrows():
                 </div>
                 <div style='text-align: right; margin-left: 1rem;'>
                     <div style='background-color: rgba(255,255,255,0.3); padding: 0.8rem; border-radius: 10px;'>
-                        <div style='font-size: 2rem; font-weight: bold;'>{rec['lift']}x</div>
+                        <div style='font-size: 2rem; font-weight: bold;'>{round(rec['lift'],2)}x</div>
                         <div style='font-size: 0.8rem; opacity: 0.9;'>Lift Score</div>
                     </div>
                 </div>
             </div>
             <div style='margin-top: 1rem; padding-top: 1rem; border-top: 1px solid rgba(255,255,255,0.3);'>
-                <small>📊 Confiança: {rec['confianca']*100:.0f}% | 🎲 Baseado em padrões de {int(rec['confianca']*1000)} clientes similares</small>
+                <small> 🎲 Baseado em padrões de {int(rec['confianca']*1000)} clientes similares</small>
             </div>
         </div>
         """, unsafe_allow_html=True)

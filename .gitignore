@@ -1,0 +1,10 @@
+# Ambientes virtuais
+.venv/
+venv/
+
+# Logs e cache de Python
+__pycache__/
+*.pyc
+
+# Arquivos do Streamlit
+.streamlit/
