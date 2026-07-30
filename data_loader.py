@@ -165,11 +165,21 @@ def calculate_commercial_metrics(historico_cliente):
     # Calcula a data de referência baseada nas compras do cliente
     data_referencia = historico_cliente['timestamp'].max()
     
+    # Primeiro agrupa e soma, garantindo que o resultado é numérico (evita o erro do idxmax)
+    categoria_soma = historico_cliente.groupby('categoria')['valor'].sum(numeric_only=True)
+    
+    # Pega a categoria com maior valor apenas se a série não estiver vazia
+    if not categoria_soma.empty and categoria_soma.sum() > 0:
+        categoria_top = categoria_soma.idxmax()
+    else:
+        categoria_top = 'N/A'
+    # ---------------------
+    
     metrics = {
         'ticket_medio': historico_cliente['valor'].mean(),
         'frequencia': len(historico_cliente),
         'valor_total': historico_cliente['valor'].sum(),
-        'categoria_top': historico_cliente.groupby('categoria')['valor'].sum().idxmax() if 'categoria' in historico_cliente.columns else 'N/A',
+        'categoria_top': categoria_top,
         'ultimo_mes': historico_cliente[historico_cliente['timestamp'] >= data_referencia - timedelta(days=30)]['valor'].sum()
     }
     
