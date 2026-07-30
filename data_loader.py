@@ -1,7 +1,7 @@
-import pandas as pd
+from datetime import timedelta
+
 import numpy as np
-from datetime import datetime, timedelta
-import re # Necessário para a limpeza de strings no Apriori
+import pandas as pd
 
 # =============================================================================
 # CARREGAMENTO DE DADOS
@@ -74,19 +74,24 @@ def enrich_customer_data(clientes_df):
 
 def prepare_historico(historico_df, user_id, meses=6):
     """
-    Filtra e prepara histórico de compras dos últimos N meses,
-    mantendo as colunas originais para cálculo de métricas.
+    Filtra e prepara histórico de compras dos últimos N meses
+    (baseado na data mais recente do banco de dados).
     """
-    
     hist_cliente = historico_df[historico_df['user_id'] == user_id].copy()
     
-    data_limite = datetime.now() - timedelta(days=meses*30)
+    # Se o cliente não tiver compras, retorna vazio para não dar erro no max()
+    if hist_cliente.empty:
+        return hist_cliente
+        
+    # Pega a data da última compra feita no banco inteiro (ou pelo cliente)
+    data_referencia = historico_df['timestamp'].max() 
+    data_limite = data_referencia - timedelta(days=meses*30)
+    
     hist_cliente = hist_cliente[hist_cliente['timestamp'] >= data_limite]
     
     # Adicionar a coluna 'data' (Mês/Ano) para uso nos gráficos
     hist_cliente['data'] = hist_cliente['timestamp'].dt.to_period('M').astype(str)
     
-    # O DataFrame é retornado detalhado.
     return hist_cliente
 
 
@@ -151,13 +156,21 @@ def calculate_commercial_metrics(historico_cliente):
     """
     Calcula métricas de perfil comercial
     """
+    if historico_cliente.empty:
+        return {
+            'ticket_medio': 0, 'frequencia': 0, 'valor_total': 0, 
+            'categoria_top': 'N/A', 'ultimo_mes': 0
+        }
+        
+    # Calcula a data de referência baseada nas compras do cliente
+    data_referencia = historico_cliente['timestamp'].max()
     
     metrics = {
-        'ticket_medio': historico_cliente['valor'].mean() if len(historico_cliente) > 0 else 0,
+        'ticket_medio': historico_cliente['valor'].mean(),
         'frequencia': len(historico_cliente),
         'valor_total': historico_cliente['valor'].sum(),
-        'categoria_top': historico_cliente.groupby('categoria')['valor'].sum().idxmax() if 'categoria' in historico_cliente.columns and len(historico_cliente) > 0 else 'N/A',
-        'ultimo_mes': historico_cliente[historico_cliente['timestamp'] >= datetime.now() - timedelta(days=30)]['valor'].sum()
+        'categoria_top': historico_cliente.groupby('categoria')['valor'].sum().idxmax() if 'categoria' in historico_cliente.columns else 'N/A',
+        'ultimo_mes': historico_cliente[historico_cliente['timestamp'] >= data_referencia - timedelta(days=30)]['valor'].sum()
     }
     
     return metrics

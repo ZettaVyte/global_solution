@@ -98,8 +98,8 @@ user_127,Olivia Souza,616.002.522-90,(77) 88697-3017,RO,DIAMOND,item_32,Buprofez
 user_128,Tatiana Ribeiro,939.507.871-62,(63) 12675-1773,AC,GOLD,item_2,Tiodicarbe,top products
 user_128,Tatiana Ribeiro,939.507.871-62,(63) 12675-1773,AC,GOLD,item_25,Spiromesifen,top products
 user_128,Tatiana Ribeiro,939.507.871-62,(63) 12675-1773,AC,GOLD,item_32,Buprofezina,top products
-user_129,Gabriel Almeida,201.704.703-04,(22) 90271-9902,CE,PLATINUM,item_2,Tiodicarbe,apriori
 user_129,Gabriel Almeida,201.704.703-04,(22) 90271-9902,CE,PLATINUM,item_5,Malationa,apriori
+user_129,Gabriel Almeida,201.704.703-04,(22) 90271-9902,CE,PLATINUM,item_2,Tiodicarbe,apriori
 user_129,Gabriel Almeida,201.704.703-04,(22) 90271-9902,CE,PLATINUM,item_25,Spiromesifen,apriori
 user_13,Mariana Lima,800.652.158-93,(92) 33873-2961,RO,DIAMOND,item_5,Malationa,apriori
 user_13,Mariana Lima,800.652.158-93,(92) 33873-2961,RO,DIAMOND,item_25,Spiromesifen,apriori
@@ -161,8 +161,8 @@ user_146,Bruno Barbosa,888.350.506-40,(40) 31687-6042,ES,GOLD,item_32,Buprofezin
 user_147,Mariana Silva,327.183.896-54,(39) 35278-9995,AM,GOLD,item_2,Tiodicarbe,top products
 user_147,Mariana Silva,327.183.896-54,(39) 35278-9995,AM,GOLD,item_25,Spiromesifen,top products
 user_147,Mariana Silva,327.183.896-54,(39) 35278-9995,AM,GOLD,item_32,Buprofezina,top products
-user_148,Olivia Martins,891.227.022-11,(20) 70874-5835,AL,SILVER,item_2,Tiodicarbe,apriori
 user_148,Olivia Martins,891.227.022-11,(20) 70874-5835,AL,SILVER,item_5,Malationa,apriori
+user_148,Olivia Martins,891.227.022-11,(20) 70874-5835,AL,SILVER,item_2,Tiodicarbe,apriori
 user_148,Olivia Martins,891.227.022-11,(20) 70874-5835,AL,SILVER,item_25,Spiromesifen,apriori
 user_149,Nicolas Oliveira,992.644.136-59,(18) 42488-5010,AL,GOLD,item_5,Malationa,apriori
 user_149,Nicolas Oliveira,992.644.136-59,(18) 42488-5010,AL,GOLD,item_1,"2,4-D",apriori
@@ -188,8 +188,8 @@ user_154,Yasmin Costa,596.256.532-31,(77) 13392-5363,MA,GOLD,item_32,Buprofezina
 user_155,Júlia Pereira,646.945.256-72,(95) 41763-6177,RN,PLATINUM,item_2,Tiodicarbe,top products
 user_155,Júlia Pereira,646.945.256-72,(95) 41763-6177,RN,PLATINUM,item_25,Spiromesifen,top products
 user_155,Júlia Pereira,646.945.256-72,(95) 41763-6177,RN,PLATINUM,item_32,Buprofezina,top products
-user_156,Carlos Barbosa,128.004.728-94,(75) 48587-0005,AP,PLATINUM,item_2,Tiodicarbe,apriori
 user_156,Carlos Barbosa,128.004.728-94,(75) 48587-0005,AP,PLATINUM,item_5,Malationa,apriori
+user_156,Carlos Barbosa,128.004.728-94,(75) 48587-0005,AP,PLATINUM,item_2,Tiodicarbe,apriori
 user_156,Carlos Barbosa,128.004.728-94,(75) 48587-0005,AP,PLATINUM,item_25,Spiromesifen,apriori
 user_157,Tatiana Ribeiro,956.255.492-01,(53) 81343-2009,PE,PLATINUM,item_2,Tiodicarbe,top products
 user_157,Tatiana Ribeiro,956.255.492-01,(53) 81343-2009,PE,PLATINUM,item_25,Spiromesifen,top products
@@ -485,8 +485,8 @@ user_243,Vinicius Costa,116.122.197-74,(41) 53554-5760,SC,GOLD,item_32,Buprofezi
 user_244,Bruno Rocha,150.390.295-51,(80) 21927-2281,AP,GOLD,item_2,Tiodicarbe,top products
 user_244,Bruno Rocha,150.390.295-51,(80) 21927-2281,AP,GOLD,item_25,Spiromesifen,top products
 user_244,Bruno Rocha,150.390.295-51,(80) 21927-2281,AP,GOLD,item_32,Buprofezina,top products
-user_245,Eduardo Martins,700.822.864-03,(96) 54819-9142,TO,DIAMOND,item_2,Tiodicarbe,apriori
 user_245,Eduardo Martins,700.822.864-03,(96) 54819-9142,TO,DIAMOND,item_5,Malationa,apriori
+user_245,Eduardo Martins,700.822.864-03,(96) 54819-9142,TO,DIAMOND,item_2,Tiodicarbe,apriori
 user_245,Eduardo Martins,700.822.864-03,(96) 54819-9142,TO,DIAMOND,item_25,Spiromesifen,apriori
 user_246,Karen Gomes,471.334.482-50,(19) 75214-4258,TO,SILVER,item_2,Tiodicarbe,top products
 user_246,Karen Gomes,471.334.482-50,(19) 75214-4258,TO,SILVER,item_25,Spiromesifen,top products
@@ -530,8 +530,8 @@ user_257,Eduardo Souza,564.149.886-02,(55) 70470-4889,ES,GOLD,item_32,Buprofezin
 user_258,Leonardo Barbosa,940.270.615-59,(25) 25249-3355,AL,PLATINUM,item_2,Tiodicarbe,top products
 user_258,Leonardo Barbosa,940.270.615-59,(25) 25249-3355,AL,PLATINUM,item_25,Spiromesifen,top products
 user_258,Leonardo Barbosa,940.270.615-59,(25) 25249-3355,AL,PLATINUM,item_32,Buprofezina,top products
-user_259,Karen Barbosa,926.704.807-28,(62) 86633-1882,AL,SILVER,item_2,Tiodicarbe,apriori
 user_259,Karen Barbosa,926.704.807-28,(62) 86633-1882,AL,SILVER,item_5,Malationa,apriori
+user_259,Karen Barbosa,926.704.807-28,(62) 86633-1882,AL,SILVER,item_2,Tiodicarbe,apriori
 user_259,Karen Barbosa,926.704.807-28,(62) 86633-1882,AL,SILVER,item_25,Spiromesifen,apriori
 user_26,Carlos Oliveira,610.756.546-52,(38) 29641-2402,PR,GOLD,item_2,Tiodicarbe,top products
 user_26,Carlos Oliveira,610.756.546-52,(38) 29641-2402,PR,GOLD,item_25,Spiromesifen,top products
@@ -542,8 +542,8 @@ user_260,Bruno Oliveira,193.465.056-25,(64) 74341-3076,PI,SILVER,item_32,Buprofe
 user_261,Paulo Silva,142.339.307-29,(21) 55594-0277,PR,GOLD,item_2,Tiodicarbe,top products
 user_261,Paulo Silva,142.339.307-29,(21) 55594-0277,PR,GOLD,item_25,Spiromesifen,top products
 user_261,Paulo Silva,142.339.307-29,(21) 55594-0277,PR,GOLD,item_32,Buprofezina,top products
-user_262,Eduardo Barbosa,240.364.942-87,(21) 46062-8950,PA,GOLD,item_2,Tiodicarbe,apriori
 user_262,Eduardo Barbosa,240.364.942-87,(21) 46062-8950,PA,GOLD,item_5,Malationa,apriori
+user_262,Eduardo Barbosa,240.364.942-87,(21) 46062-8950,PA,GOLD,item_2,Tiodicarbe,apriori
 user_262,Eduardo Barbosa,240.364.942-87,(21) 46062-8950,PA,GOLD,item_25,Spiromesifen,apriori
 user_263,Mariana Costa,229.122.282-68,(47) 66094-7425,MS,GOLD,item_2,Tiodicarbe,top products
 user_263,Mariana Costa,229.122.282-68,(47) 66094-7425,MS,GOLD,item_25,Spiromesifen,top products
@@ -605,14 +605,14 @@ user_28,Karen Ferreira,786.757.781-19,(98) 12243-0099,SC,DIAMOND,item_32,Buprofe
 user_280,Eduardo Pereira,440.934.572-66,(14) 38216-4939,ES,DIAMOND,item_2,Tiodicarbe,top products
 user_280,Eduardo Pereira,440.934.572-66,(14) 38216-4939,ES,DIAMOND,item_25,Spiromesifen,top products
 user_280,Eduardo Pereira,440.934.572-66,(14) 38216-4939,ES,DIAMOND,item_32,Buprofezina,top products
-user_281,Helena Souza,387.214.899-17,(18) 78583-7286,RO,SILVER,item_2,Tiodicarbe,apriori
 user_281,Helena Souza,387.214.899-17,(18) 78583-7286,RO,SILVER,item_5,Malationa,apriori
+user_281,Helena Souza,387.214.899-17,(18) 78583-7286,RO,SILVER,item_2,Tiodicarbe,apriori
 user_281,Helena Souza,387.214.899-17,(18) 78583-7286,RO,SILVER,item_25,Spiromesifen,apriori
 user_282,Olivia Melo,504.161.165-66,(83) 39480-1891,AM,SILVER,item_2,Tiodicarbe,top products
 user_282,Olivia Melo,504.161.165-66,(83) 39480-1891,AM,SILVER,item_25,Spiromesifen,top products
 user_282,Olivia Melo,504.161.165-66,(83) 39480-1891,AM,SILVER,item_32,Buprofezina,top products
-user_283,Igor Silva,052.657.878-57,(44) 31991-6728,AM,GOLD,item_2,Tiodicarbe,apriori
 user_283,Igor Silva,052.657.878-57,(44) 31991-6728,AM,GOLD,item_5,Malationa,apriori
+user_283,Igor Silva,052.657.878-57,(44) 31991-6728,AM,GOLD,item_2,Tiodicarbe,apriori
 user_283,Igor Silva,052.657.878-57,(44) 31991-6728,AM,GOLD,item_25,Spiromesifen,apriori
 user_284,Tatiana Gomes,996.215.266-93,(45) 70662-4351,MG,GOLD,item_2,Tiodicarbe,top products
 user_284,Tatiana Gomes,996.215.266-93,(45) 70662-4351,MG,GOLD,item_25,Spiromesifen,top products
@@ -644,8 +644,8 @@ user_291,Renata Souza,682.416.509-18,(56) 50003-8500,RJ,PLATINUM,item_32,Buprofe
 user_292,Yasmin Melo,217.674.364-03,(19) 63841-1336,PB,SILVER,item_1,"2,4-D",apriori
 user_292,Yasmin Melo,217.674.364-03,(19) 63841-1336,PB,SILVER,item_5,Malationa,apriori
 user_292,Yasmin Melo,217.674.364-03,(19) 63841-1336,PB,SILVER,item_12,Clorpirifos,apriori
-user_293,Karen Cardoso,846.554.119-56,(57) 29979-2716,RO,DIAMOND,item_2,Tiodicarbe,apriori
 user_293,Karen Cardoso,846.554.119-56,(57) 29979-2716,RO,DIAMOND,item_5,Malationa,apriori
+user_293,Karen Cardoso,846.554.119-56,(57) 29979-2716,RO,DIAMOND,item_2,Tiodicarbe,apriori
 user_293,Karen Cardoso,846.554.119-56,(57) 29979-2716,RO,DIAMOND,item_25,Spiromesifen,apriori
 user_294,Vinicius Silva,128.703.870-92,(12) 68937-3769,ES,SILVER,item_2,Tiodicarbe,top products
 user_294,Vinicius Silva,128.703.870-92,(12) 68937-3769,ES,SILVER,item_25,Spiromesifen,top products
@@ -659,8 +659,8 @@ user_296,Renata Almeida,246.605.855-14,(38) 45308-4554,MS,SILVER,item_32,Buprofe
 user_297,Igor Almeida,819.453.274-39,(57) 66077-6193,AC,GOLD,item_2,Tiodicarbe,top products
 user_297,Igor Almeida,819.453.274-39,(57) 66077-6193,AC,GOLD,item_25,Spiromesifen,top products
 user_297,Igor Almeida,819.453.274-39,(57) 66077-6193,AC,GOLD,item_32,Buprofezina,top products
-user_298,Leonardo Nascimento,444.514.998-39,(22) 73087-6388,AC,GOLD,item_2,Tiodicarbe,apriori
 user_298,Leonardo Nascimento,444.514.998-39,(22) 73087-6388,AC,GOLD,item_5,Malationa,apriori
+user_298,Leonardo Nascimento,444.514.998-39,(22) 73087-6388,AC,GOLD,item_2,Tiodicarbe,apriori
 user_298,Leonardo Nascimento,444.514.998-39,(22) 73087-6388,AC,GOLD,item_25,Spiromesifen,apriori
 user_299,Júlia Costa,206.715.045-04,(16) 45094-9897,MS,DIAMOND,item_2,Tiodicarbe,top products
 user_299,Júlia Costa,206.715.045-04,(16) 45094-9897,MS,DIAMOND,item_25,Spiromesifen,top products
@@ -806,8 +806,8 @@ user_34,Leonardo Melo,079.083.521-32,(21) 30185-4291,SE,GOLD,item_32,Buprofezina
 user_340,Rafael Barbosa,054.263.073-05,(78) 40571-4750,PB,DIAMOND,item_2,Tiodicarbe,top products
 user_340,Rafael Barbosa,054.263.073-05,(78) 40571-4750,PB,DIAMOND,item_25,Spiromesifen,top products
 user_340,Rafael Barbosa,054.263.073-05,(78) 40571-4750,PB,DIAMOND,item_32,Buprofezina,top products
-user_341,Nicolas Barbosa,860.885.721-57,(21) 52298-0216,PE,GOLD,item_2,Tiodicarbe,apriori
 user_341,Nicolas Barbosa,860.885.721-57,(21) 52298-0216,PE,GOLD,item_5,Malationa,apriori
+user_341,Nicolas Barbosa,860.885.721-57,(21) 52298-0216,PE,GOLD,item_2,Tiodicarbe,apriori
 user_341,Nicolas Barbosa,860.885.721-57,(21) 52298-0216,PE,GOLD,item_25,Spiromesifen,apriori
 user_342,Mariana Gomes,663.775.096-11,(91) 87029-4568,BA,GOLD,item_2,Tiodicarbe,top products
 user_342,Mariana Gomes,663.775.096-11,(91) 87029-4568,BA,GOLD,item_25,Spiromesifen,top products
@@ -950,8 +950,8 @@ user_383,Nicolas Ferreira,986.724.336-12,(58) 11298-1894,RO,SILVER,item_32,Bupro
 user_384,Igor Costa,098.922.632-49,(13) 55252-9292,AL,DIAMOND,item_2,Tiodicarbe,top products
 user_384,Igor Costa,098.922.632-49,(13) 55252-9292,AL,DIAMOND,item_25,Spiromesifen,top products
 user_384,Igor Costa,098.922.632-49,(13) 55252-9292,AL,DIAMOND,item_32,Buprofezina,top products
-user_385,Carlos Melo,429.682.990-03,(57) 35731-0048,MT,PLATINUM,item_2,Tiodicarbe,apriori
 user_385,Carlos Melo,429.682.990-03,(57) 35731-0048,MT,PLATINUM,item_5,Malationa,apriori
+user_385,Carlos Melo,429.682.990-03,(57) 35731-0048,MT,PLATINUM,item_2,Tiodicarbe,apriori
 user_385,Carlos Melo,429.682.990-03,(57) 35731-0048,MT,PLATINUM,item_25,Spiromesifen,apriori
 user_386,Igor Melo,348.225.606-79,(84) 35382-2152,PI,SILVER,item_2,Tiodicarbe,top products
 user_386,Igor Melo,348.225.606-79,(84) 35382-2152,PI,SILVER,item_25,Spiromesifen,top products
@@ -980,8 +980,8 @@ user_392,Helena Almeida,837.320.628-70,(11) 52564-3338,RS,DIAMOND,item_32,Buprof
 user_393,Olivia Nascimento,811.797.533-03,(41) 81873-6944,SE,GOLD,item_5,Malationa,apriori
 user_393,Olivia Nascimento,811.797.533-03,(41) 81873-6944,SE,GOLD,item_1,"2,4-D",apriori
 user_393,Olivia Nascimento,811.797.533-03,(41) 81873-6944,SE,GOLD,item_9,Dimetoato,apriori
-user_394,Samuel Ribeiro,180.648.577-36,(57) 12612-3710,MT,GOLD,item_2,Tiodicarbe,apriori
 user_394,Samuel Ribeiro,180.648.577-36,(57) 12612-3710,MT,GOLD,item_5,Malationa,apriori
+user_394,Samuel Ribeiro,180.648.577-36,(57) 12612-3710,MT,GOLD,item_2,Tiodicarbe,apriori
 user_394,Samuel Ribeiro,180.648.577-36,(57) 12612-3710,MT,GOLD,item_25,Spiromesifen,apriori
 user_395,Eduardo Pereira,374.591.223-52,(89) 54654-1908,PA,SILVER,item_2,Tiodicarbe,top products
 user_395,Eduardo Pereira,374.591.223-52,(89) 54654-1908,PA,SILVER,item_25,Spiromesifen,top products
@@ -1001,8 +1001,8 @@ user_399,Nicolas Ferreira,563.774.314-33,(39) 38062-9884,AP,DIAMOND,item_32,Bupr
 user_4,Júlia Barbosa,242.521.877-38,(31) 34069-6630,MG,SILVER,item_2,Tiodicarbe,top products
 user_4,Júlia Barbosa,242.521.877-38,(31) 34069-6630,MG,SILVER,item_25,Spiromesifen,top products
 user_4,Júlia Barbosa,242.521.877-38,(31) 34069-6630,MG,SILVER,item_32,Buprofezina,top products
-user_40,Yasmin Oliveira,207.462.854-28,(35) 32838-6170,ES,DIAMOND,item_2,Tiodicarbe,apriori
 user_40,Yasmin Oliveira,207.462.854-28,(35) 32838-6170,ES,DIAMOND,item_5,Malationa,apriori
+user_40,Yasmin Oliveira,207.462.854-28,(35) 32838-6170,ES,DIAMOND,item_2,Tiodicarbe,apriori
 user_40,Yasmin Oliveira,207.462.854-28,(35) 32838-6170,ES,DIAMOND,item_25,Spiromesifen,apriori
 user_400,Igor Barbosa,298.096.609-42,(34) 79955-6266,MS,PLATINUM,item_2,Tiodicarbe,top products
 user_400,Igor Barbosa,298.096.609-42,(34) 79955-6266,MS,PLATINUM,item_25,Spiromesifen,top products
@@ -1067,8 +1067,8 @@ user_418,Helena Ribeiro,557.040.736-44,(48) 49960-6600,RJ,GOLD,item_32,Buprofezi
 user_419,Ana Lima,882.273.079-20,(27) 82413-5953,AM,DIAMOND,item_2,Tiodicarbe,top products
 user_419,Ana Lima,882.273.079-20,(27) 82413-5953,AM,DIAMOND,item_25,Spiromesifen,top products
 user_419,Ana Lima,882.273.079-20,(27) 82413-5953,AM,DIAMOND,item_32,Buprofezina,top products
-user_42,Mariana Oliveira,247.130.718-27,(46) 26152-5157,AC,GOLD,item_2,Tiodicarbe,apriori
 user_42,Mariana Oliveira,247.130.718-27,(46) 26152-5157,AC,GOLD,item_5,Malationa,apriori
+user_42,Mariana Oliveira,247.130.718-27,(46) 26152-5157,AC,GOLD,item_2,Tiodicarbe,apriori
 user_42,Mariana Oliveira,247.130.718-27,(46) 26152-5157,AC,GOLD,item_25,Spiromesifen,apriori
 user_420,Júlia Lima,559.450.736-37,(60) 44695-5128,GO,PLATINUM,item_2,Tiodicarbe,top products
 user_420,Júlia Lima,559.450.736-37,(60) 44695-5128,GO,PLATINUM,item_25,Spiromesifen,top products
@@ -1100,20 +1100,20 @@ user_428,Nicolas Silva,973.841.709-09,(81) 72215-0813,CE,DIAMOND,item_32,Buprofe
 user_429,Ana Cardoso,509.909.896-28,(46) 51889-7693,CE,SILVER,item_2,Tiodicarbe,top products
 user_429,Ana Cardoso,509.909.896-28,(46) 51889-7693,CE,SILVER,item_25,Spiromesifen,top products
 user_429,Ana Cardoso,509.909.896-28,(46) 51889-7693,CE,SILVER,item_32,Buprofezina,top products
-user_43,Yasmin Cardoso,791.391.032-37,(75) 53558-2018,CE,DIAMOND,item_2,Tiodicarbe,apriori
 user_43,Yasmin Cardoso,791.391.032-37,(75) 53558-2018,CE,DIAMOND,item_5,Malationa,apriori
+user_43,Yasmin Cardoso,791.391.032-37,(75) 53558-2018,CE,DIAMOND,item_2,Tiodicarbe,apriori
 user_43,Yasmin Cardoso,791.391.032-37,(75) 53558-2018,CE,DIAMOND,item_25,Spiromesifen,apriori
-user_430,Júlia Pereira,085.559.453-70,(40) 87237-2986,PA,SILVER,item_2,Tiodicarbe,apriori
 user_430,Júlia Pereira,085.559.453-70,(40) 87237-2986,PA,SILVER,item_5,Malationa,apriori
+user_430,Júlia Pereira,085.559.453-70,(40) 87237-2986,PA,SILVER,item_2,Tiodicarbe,apriori
 user_430,Júlia Pereira,085.559.453-70,(40) 87237-2986,PA,SILVER,item_25,Spiromesifen,apriori
 user_431,Ana Barbosa,701.099.243-45,(31) 36355-1071,TO,DIAMOND,item_2,Tiodicarbe,top products
 user_431,Ana Barbosa,701.099.243-45,(31) 36355-1071,TO,DIAMOND,item_25,Spiromesifen,top products
 user_431,Ana Barbosa,701.099.243-45,(31) 36355-1071,TO,DIAMOND,item_32,Buprofezina,top products
-user_432,Yasmin Almeida,095.698.427-66,(32) 36714-9829,BA,GOLD,item_2,Tiodicarbe,apriori
 user_432,Yasmin Almeida,095.698.427-66,(32) 36714-9829,BA,GOLD,item_5,Malationa,apriori
+user_432,Yasmin Almeida,095.698.427-66,(32) 36714-9829,BA,GOLD,item_2,Tiodicarbe,apriori
 user_432,Yasmin Almeida,095.698.427-66,(32) 36714-9829,BA,GOLD,item_6,Metomil Forte,apriori
-user_433,Helena Lima,009.651.333-48,(62) 50844-2733,ES,SILVER,item_2,Tiodicarbe,apriori
 user_433,Helena Lima,009.651.333-48,(62) 50844-2733,ES,SILVER,item_5,Malationa,apriori
+user_433,Helena Lima,009.651.333-48,(62) 50844-2733,ES,SILVER,item_2,Tiodicarbe,apriori
 user_433,Helena Lima,009.651.333-48,(62) 50844-2733,ES,SILVER,item_25,Spiromesifen,apriori
 user_434,Tatiana Oliveira,417.284.449-85,(89) 35493-1656,CE,SILVER,item_2,Tiodicarbe,top products
 user_434,Tatiana Oliveira,417.284.449-85,(89) 35493-1656,CE,SILVER,item_25,Spiromesifen,top products
@@ -1121,8 +1121,8 @@ user_434,Tatiana Oliveira,417.284.449-85,(89) 35493-1656,CE,SILVER,item_32,Bupro
 user_435,Ana Oliveira,061.282.611-46,(64) 55143-6098,MA,GOLD,item_2,Tiodicarbe,top products
 user_435,Ana Oliveira,061.282.611-46,(64) 55143-6098,MA,GOLD,item_25,Spiromesifen,top products
 user_435,Ana Oliveira,061.282.611-46,(64) 55143-6098,MA,GOLD,item_32,Buprofezina,top products
-user_436,Gabriel Barbosa,198.231.688-94,(46) 38824-0291,PE,GOLD,item_2,Tiodicarbe,apriori
 user_436,Gabriel Barbosa,198.231.688-94,(46) 38824-0291,PE,GOLD,item_5,Malationa,apriori
+user_436,Gabriel Barbosa,198.231.688-94,(46) 38824-0291,PE,GOLD,item_2,Tiodicarbe,apriori
 user_436,Gabriel Barbosa,198.231.688-94,(46) 38824-0291,PE,GOLD,item_25,Spiromesifen,apriori
 user_437,Mariana Barbosa,294.411.555-02,(44) 60935-9735,MA,GOLD,item_2,Tiodicarbe,top products
 user_437,Mariana Barbosa,294.411.555-02,(44) 60935-9735,MA,GOLD,item_25,Spiromesifen,top products
@@ -1301,8 +1301,8 @@ user_489,Vinicius Melo,099.090.576-78,(11) 54334-6754,CE,PLATINUM,item_32,Buprof
 user_49,Nicolas Lima,475.087.808-86,(86) 52291-2973,PE,GOLD,item_2,Tiodicarbe,top products
 user_49,Nicolas Lima,475.087.808-86,(86) 52291-2973,PE,GOLD,item_25,Spiromesifen,top products
 user_49,Nicolas Lima,475.087.808-86,(86) 52291-2973,PE,GOLD,item_32,Buprofezina,top products
-user_490,Júlia Silva,053.263.395-63,(56) 20515-7406,ES,PLATINUM,item_2,Tiodicarbe,apriori
 user_490,Júlia Silva,053.263.395-63,(56) 20515-7406,ES,PLATINUM,item_5,Malationa,apriori
+user_490,Júlia Silva,053.263.395-63,(56) 20515-7406,ES,PLATINUM,item_2,Tiodicarbe,apriori
 user_490,Júlia Silva,053.263.395-63,(56) 20515-7406,ES,PLATINUM,item_25,Spiromesifen,apriori
 user_491,Ana Oliveira,787.672.832-82,(72) 60280-0351,PR,GOLD,item_2,Tiodicarbe,top products
 user_491,Ana Oliveira,787.672.832-82,(72) 60280-0351,PR,GOLD,item_25,Spiromesifen,top products
@@ -1322,8 +1322,8 @@ user_495,Helena Pereira,615.801.041-63,(69) 20093-7845,DF,SILVER,item_32,Buprofe
 user_496,Samuel Silva,613.574.564-59,(30) 57094-7421,RR,GOLD,item_2,Tiodicarbe,top products
 user_496,Samuel Silva,613.574.564-59,(30) 57094-7421,RR,GOLD,item_25,Spiromesifen,top products
 user_496,Samuel Silva,613.574.564-59,(30) 57094-7421,RR,GOLD,item_32,Buprofezina,top products
-user_497,Daniela Ribeiro,157.467.120-61,(43) 35014-1778,SC,PLATINUM,item_2,Tiodicarbe,apriori
 user_497,Daniela Ribeiro,157.467.120-61,(43) 35014-1778,SC,PLATINUM,item_5,Malationa,apriori
+user_497,Daniela Ribeiro,157.467.120-61,(43) 35014-1778,SC,PLATINUM,item_2,Tiodicarbe,apriori
 user_497,Daniela Ribeiro,157.467.120-61,(43) 35014-1778,SC,PLATINUM,item_25,Spiromesifen,apriori
 user_498,Karen Pereira,081.681.307-02,(60) 76351-5942,RO,DIAMOND,item_2,Tiodicarbe,top products
 user_498,Karen Pereira,081.681.307-02,(60) 76351-5942,RO,DIAMOND,item_25,Spiromesifen,top products
@@ -1334,11 +1334,11 @@ user_499,Nicolas Silva,711.303.726-74,(88) 19416-8593,MG,DIAMOND,item_32,Buprofe
 user_5,Paulo Souza,885.959.237-24,(74) 89644-4786,PA,GOLD,item_2,Tiodicarbe,top products
 user_5,Paulo Souza,885.959.237-24,(74) 89644-4786,PA,GOLD,item_25,Spiromesifen,top products
 user_5,Paulo Souza,885.959.237-24,(74) 89644-4786,PA,GOLD,item_32,Buprofezina,top products
-user_50,Clara Oliveira,198.704.043-17,(70) 52027-0559,RJ,DIAMOND,item_2,Tiodicarbe,apriori
 user_50,Clara Oliveira,198.704.043-17,(70) 52027-0559,RJ,DIAMOND,item_5,Malationa,apriori
+user_50,Clara Oliveira,198.704.043-17,(70) 52027-0559,RJ,DIAMOND,item_2,Tiodicarbe,apriori
 user_50,Clara Oliveira,198.704.043-17,(70) 52027-0559,RJ,DIAMOND,item_25,Spiromesifen,apriori
-user_500,Nicolas Melo,816.421.532-90,(37) 59223-2682,SC,DIAMOND,item_2,Tiodicarbe,apriori
 user_500,Nicolas Melo,816.421.532-90,(37) 59223-2682,SC,DIAMOND,item_5,Malationa,apriori
+user_500,Nicolas Melo,816.421.532-90,(37) 59223-2682,SC,DIAMOND,item_2,Tiodicarbe,apriori
 user_500,Nicolas Melo,816.421.532-90,(37) 59223-2682,SC,DIAMOND,item_25,Spiromesifen,apriori
 user_51,Rafael Melo,747.598.586-60,(64) 47118-5479,DF,DIAMOND,item_1,"2,4-D",apriori
 user_51,Rafael Melo,747.598.586-60,(64) 47118-5479,DF,DIAMOND,item_2,Tiodicarbe,apriori
@@ -1400,8 +1400,8 @@ user_68,Paulo Costa,412.357.579-60,(37) 56781-7912,GO,GOLD,item_32,Buprofezina,t
 user_69,Renata Gomes,415.623.733-81,(43) 89047-2831,GO,DIAMOND,item_2,Tiodicarbe,top products
 user_69,Renata Gomes,415.623.733-81,(43) 89047-2831,GO,DIAMOND,item_25,Spiromesifen,top products
 user_69,Renata Gomes,415.623.733-81,(43) 89047-2831,GO,DIAMOND,item_32,Buprofezina,top products
-user_7,Olivia Lima,371.495.784-31,(35) 42105-3414,RR,PLATINUM,item_2,Tiodicarbe,apriori
 user_7,Olivia Lima,371.495.784-31,(35) 42105-3414,RR,PLATINUM,item_5,Malationa,apriori
+user_7,Olivia Lima,371.495.784-31,(35) 42105-3414,RR,PLATINUM,item_2,Tiodicarbe,apriori
 user_7,Olivia Lima,371.495.784-31,(35) 42105-3414,RR,PLATINUM,item_25,Spiromesifen,apriori
 user_70,Vinicius Silva,676.099.379-86,(36) 11365-3953,MS,DIAMOND,item_2,Tiodicarbe,top products
 user_70,Vinicius Silva,676.099.379-86,(36) 11365-3953,MS,DIAMOND,item_25,Spiromesifen,top products

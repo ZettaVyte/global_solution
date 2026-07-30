@@ -1,10 +1,9 @@
-from utils import data_loader as dl
-import streamlit as st
+
 import pandas as pd
-import numpy as np
 import plotly.express as px
-import plotly.graph_objects as go
-from datetime import datetime, timedelta
+import streamlit as st
+
+import data_loader as dl
 
 # =============================================================================
 # CONFIGURAÇÃO DA PÁGINA
@@ -220,13 +219,17 @@ with col3:
 # SEÇÃO 2: PERFIL COMERCIAL
 # =============================================================================
 
+# =============================================================================
+# SEÇÃO 2: PERFIL COMERCIAL
+# =============================================================================
+
 st.markdown('<div class="section-title">💼 Perfil Comercial</div>', unsafe_allow_html=True)
 
-# Calcular métricas
-ticket_medio = historico_cliente['valor'].mean()
-frequencia = len(historico_cliente)
-valor_total = historico_cliente['valor'].sum()
-categoria_top = historico_cliente.groupby('categoria')['valor'].sum().idxmax()
+# Puxar as métricas já calculadas de forma segura pelo data_loader
+ticket_medio = metrics.get('ticket_medio', 0.0)
+frequencia = metrics.get('frequencia', 0)
+valor_total = metrics.get('valor_total', 0.0)
+categoria_top = metrics.get('categoria_top', 'Sem compras')
 
 # Métricas em cards
 col1, col2, col3, col4 = st.columns(4)
@@ -360,7 +363,7 @@ for idx, rec in recs_cliente.iterrows():
         """, unsafe_allow_html=True)
     
     with col2:
-        if st.button(f"📋 Ver Detalhes", key=f"btn_{idx}"):
+        if st.button("📋 Ver Detalhes", key=f"btn_{idx}"):
             st.info(f"Abrindo ficha técnica de {rec['rec_desc']}...")
 
 # =============================================================================
