@@ -6,7 +6,7 @@ import streamlit as st
 import data_loader as dl
 
 # =============================================================================
-# CONFIGURAÇÃO DA PÁGINA
+# CONFIGURAÇÃO DA PÁGINA # RELOAD
 # =============================================================================
 
 st.set_page_config(
