@@ -1,0 +1,5 @@
+PITCH:
+https://www.youtube.com/watch?v=QuCStWIEagc
+
+Dashboard MVP:
+https://recomendaiagro.streamlit.app/
